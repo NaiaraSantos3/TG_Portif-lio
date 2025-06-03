@@ -20,18 +20,21 @@
 
 ## Contatos
 <details> 
+
 * [GIT](https://github.com/NaiaraSantos3)
 * [LinkedIn](https://www.linkedin.com/in/naiara-santos-73b83a186/)
 </details>
 
 ## Meus Principais Conhecimentos
 <details> 
+
 "Apresente seus principais conhecimentos. Foque nos conhecimentos que possui maior domínio e que deseja desenvolver durante sua carreira."
 </details>
 
 
 ## Meus Projetos
 <details> 
+
 Durante a realização do curso de Banco de Dados na Fatec - Faculdade de Tecnologia de São José dos Campos - Profº Jessen Vidal, tive a interação com a Metodologia de Aprendizado - API e em todos os semestres foram desenvolvidos ao menos um projeto em equipe e com base na metodologia de Scrum.
 Neste portifólio, serão apresentadas os parceiros (clientes), meus aprendizados, contribuições pessoais com as minhas equipes e as soluções elaboradas em cada um dos seis semestres. 
 </details>
@@ -51,6 +54,7 @@ Neste portifólio, serão apresentadas os parceiros (clientes), meus aprendizado
 ## 3º Semestre – 2024/1
 
 <details> 
+
 ### Apresentação do Parceiro: Dom Rock
 
 A _DOM ROCK_ é uma empresa voltada para apoioar clientes de diversos setores e que geram todo o tipo de dado (áudio, e-mail, imagem, etc.) a realizarem análises de dados através do uso da Inteligência Artificial. Com os dados tratatos e analisados, possibilitam aos seus clientes maior acertividade e segurança para as tomadas de decisões.
@@ -110,7 +114,7 @@ Dessa forma, seguem os desenvolvimentos de cada sprint, estruturadas da seguinte
 
 	 Quando o usuário aprova as informações recebidas, todos os dados seguem para as etapas seguintes da Silver Zone.
   
-	 ![image](https://github.com/user-attachments/assets/5c33128f-89a9-4363-8a5b-03d6a0ef3b32)
+	![image](https://github.com/user-attachments/assets/5c33128f-89a9-4363-8a5b-03d6a0ef3b32)
 	
 	 Já a tela de Editar DePara foi desenvolvida para que o usuário conseguisse realizar alteração dos metadados, sendo possível realizar a inclusão ou exclusão de uma linha inteira, excluir tudo ou apenas alterar o De (que consiste na alteração da coluna "O valor De") e também o Para (que cosiste na alteração da coluna "É igual a").
 	 ![image](https://github.com/user-attachments/assets/aeb258b4-988a-4b51-8f79-504f1f3974e3)
