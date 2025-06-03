@@ -1,40 +1,23 @@
-# Naiara Letícia Lemos dos Santos
-
-## Introdução
-
-"Faça uma breve introdução sobre você. Fale de sua formação e carreira. Caso aplicável, fale de publicações ou apresentações em eventos da área de computação. Inclua uma foto!"
-
-## Contatos
-* [GIT](https://github.com/NaiaraSantos3)
-* [LinkedIn](https://www.linkedin.com/in/naiara-santos-73b83a186/)
-
-## Meus Principais Conhecimentos
-"Apresente seus principais conhecimentos. Foque nos conhecimentos que possui maior domínio e que deseja desenvolver durante sua carreira."
-
-
-## Meus Projetos
-
-### Em 2023-1
-Mesmo formato
-
-
-### Em 2023-2
-Mesmo formato
-
-### Em 2024-1
-" Fale sobre o projeto desenvolvido. Apresente a empresa parceira, o problema e a solução entregue pela equipe (mínimo de um parágrafo por item). Recomenda-se o uso de figuras (ou até mesmo vídeos) para ilustrar os principais projetos."
+## 3º Semestre – 2024/1
+<details> 
+### Apresentação do Parceiro: Dom Rock
 
 A _DOM ROCK_ é uma empresa voltada para apoioar clientes de diversos setores e que geram todo o tipo de dado (áudio, e-mail, imagem, etc.) a realizarem análises de dados através do uso da Inteligência Artificial. Com os dados tratatos e analisados, possibilitam aos seus clientes maior acertividade e segurança para as tomadas de decisões.
 
-Dessa forma, para o denvolvimento da API do 3° Semestre, aplicado na primeira etapa de 2024, tivemos o seguinte desafio:
+
+Segue o link para conhecer a _DOM ROCK_:
+
+[_Dom Rock_](https://www.domrock.net/)
+
+
+### Objetivo do Projeto
+Para o denvolvimento da API do 3° Semestre, aplicado na primeira etapa de 2024, tivemos o seguinte desafio:
 
 A instituição possui um sistema de processamento de dados em cascata chamado pipeline, que consiste em vários estágios que são coordenados automaticamente com base nas características das fontes de dados e nas necessidades dos clientes em termos de algoritmos de IA ou modelos matemáticos. 
 Na metodologia de implementação do sistema, é necessário configurar as fontes de dados envolvidas para que a plataforma funcione corretamente. No entanto, a configuração das fontes de dados é feita manualmente, sendo um ponto crítico que consome muito tempo dos técnicos e cria uma dependência excessiva de especialistas para realizar tal tarefa.
 Para superar esse obstáculo, foi proposto a criação de uma interface amigável para a configuração das fontes de dados em alguns estágios, proporcionando maior agilidade na implantação para os clientes da _Dom Rock_ e reduzindo a sua dependência de técnicos especializados.
 
-Seguem os links para conhecer a _DOM ROCK_ e a aplicação _DataFlow_:
-
-[_Dom Rock_](https://www.domrock.net/)
+Segue link para conhecer a aplicação _DataFlow_:
 
 [Aplicação _DataFlow_](https://github.com/iNineBD/DataFlow-3Sem2024)
 
@@ -105,43 +88,4 @@ Apresente as hard skills que você utilizou/desenvolveu durante o projeto e o n�
 #### Soft Skills
 Apresente as soft skills que você utilizou/desenvolveu durante o projeto e em quais situações elas foram fundamentais. Exemplo: Comunicação - Precisei exercitar minhas habilidades de comunicação para viabilizar as reuniões semanais levando em conta as disponibilidades dos membros, que não cursavam as mesmas disciplinas.
 
-
-### Em 2024-2
-
-A _A ITO1_ é uma empresa focada em soluções tecnológicas de ponta, com especialização em Internet das Coisas (IoT), Inteligência Artificial (IA), Big Data e cibersegurança. Sediada em São Paulo (SP), atua em todo o Brasil e na América Latina, oferecendo desde a concepção até a implementação e manutenção de soluções digitais sob medida para empresas de diferentes segmentos.
-
-Dessa forma, para o denvolvimento da API do 4° Semestre, aplicado na segunda etapa de 2024, tivemos o seguinte desafio:
-Desenvolver uma solução escalável e de alta disponibilidade para armazenar e consultar, em tempo real, dados de geolocalização gerados por dispositivos IoT. 
-
-Seguem os links para conhecer a _ITO1_ e a aplicação _GeoTrack_:
-
-[_ITO1_](https://www.ito1.com.br/)
-
-[Aplicação _GeoTrack_](https://github.com/iNineBD/GeoTrack-4Sem2024Main)
-
-#### Tecnologias Utilizadas
-(Descrever as tecnologias utilizadas)
-
-#### Contribuições Pessoais
-Para a elaboração e desenvolvimento do projeto no 4° semestre as minhas contribuições foram as seguintes atribuições:
-
-
-### Em 2025-1
-
-A _Youtan_ é uma empresa que atua no desenvolvimento de softwares e aplicativos sob demanda, oferecendo soluções digitais personalizadas para diferentes segmentos do mercado. Fundada em 2002 com o nome Conexão Local Informática LTDA, está sediada no Parque Tecnológico de São José dos Campos (SP) e integra o TIC Vale, o maior cluster de Tecnologia da Informação e Comunicação do Brasil.
-
-Dessa forma, para o denvolvimento da API do 5° Semestre, aplicado na primeira etapa de 2025, tivemos o seguinte desafio:
-
-Seguem os links para conhecer a _Youtan_ e a aplicação _Vision_:
-
-[_Youtan_](https://youtan.com.br/)
-
-[Aplicação _Vision_](https://github.com/new-ge/VISION)
-
-#### Tecnologias Utilizadas
-(Descrever as tecnologias utilizadas)
-
-#### Contribuições Pessoais
-Para a elaboração e desenvolvimento do projeto no 4° semestre as minhas contribuições foram as seguintes atribuições:
-
-
+</details>
