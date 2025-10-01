@@ -65,7 +65,7 @@ Segue link para conhecer a aplicação _Avaliação 360°_:
 #### Tecnologias Utilizadas
 As ferramentas utilizadas foram:
 
-![Tecnologias](image.png)
+![image](https://github.com/iNineBD/1Sem2023/assets/117841950/245264a5-33bd-4e41-b2f4-90ec30dbb475)
 - _Python_: linguagem utilizada no projeto;
 - _Visual Studio Code_: IDE definida para uso de todo o time de desenvolvimento;
 - _Excel_: uso interno na equipe, para o controle das avaliações do time durante as sprints, dashboards e apoio no desenvolvimento do _burndown_;
@@ -83,6 +83,7 @@ Dessa forma, seguem os desenvolvimentos de cada sprint, estruturadas da seguinte
 
 - _Sprint 1_:
 	  Responsável por entender, conversar com o cliente e realizar o planejamento do Backlog:
+
 |  **ÉPICO**  | **USER STORY** | **PRIORIDADE** | **SPRINT** | **STATUS** |
 |-------------------------|---------------------|----------------|-------------------------|------------------------|
 | Avaliação 360° | O sistema deve realizar uma avaliação dos integrantes do time e uma autoavaliação para analisar o desempenho como equipe | Alta | 2 | **Realizado** |
@@ -117,6 +118,7 @@ https://github.com/iNineBD/1Sem2023/assets/117841950/37bad4d2-0eba-49f1-ab45-048
 
 
 Atualização e reestruturação do Backlog:
+
 |  **ÉPICO**  | **USER STORE** | **PRIORIDADE** | **SPRINT** | **STATUS** |
 |-------------------------|---------------------|----------------|-------------------------|------------------------|
 | Avaliação 360° | O sistema deve realizar uma avaliação dos integrantes do time e uma autoavaliação para analisar o desempenho como equipe | Alta | 2 | **Realizado** |
