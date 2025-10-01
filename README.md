@@ -81,7 +81,7 @@ Para a elaboração e desenvolvimento do projeto no 1° semestre as minhas contr
 
 Dessa forma, seguem os desenvolvimentos de cada sprint, estruturadas da seguinte forma:
 
-	- _Sprint 1_:
+- _Sprint 1_:
 	  Responsável por entender, conversar com o cliente e realizar o planejamento do Backlog:
 
 	  |  **ÉPICO**  | **USER STORY** | **PRIORIDADE** | **SPRINT** | **STATUS** |
@@ -98,7 +98,7 @@ Dessa forma, seguem os desenvolvimentos de cada sprint, estruturadas da seguinte
 	  | Design | Aprimorar a visualização do sistema no console, de forma organizada e com cores de maior destaque | Alta | 4 | **Realizado** |
 	  | Fluxograma | Um protótipo que permite uma visualização ramificada do sistema | Baixa | 1 | **Realizado** |
 
-	- _Sprint 2_: 
+- _Sprint 2_: 
 	  Realizado o Controle de Times: Para acessar o Controle de Times, se faz necessário acessar o Controle de Turmas. Por tanto, um Time precisa pertencer a uma Turma e somente essa inclusão permitirá a aplicação adequada da Avaliação 360°.
 	  É através do Controle de Times que se torna possível gerenciar todas as informações dos usuários e visualizar a evolução da Avaliação.
 	  Nesta etapa, auxiliei no desenvolvimento nas seguintes funcionalidades:
@@ -109,15 +109,15 @@ Dessa forma, seguem os desenvolvimentos de cada sprint, estruturadas da seguinte
 
 
 	- _Sprint 3_:
-	  Realizado o Controle de Sprint: gerenciamento e acompanhamento das avaliações realizadas em ciclos curtos e iterativos, para facilitar o controle e a gestão da aplicação. É no controle de sprints, que é possível criar, editar, visualizar e excluir sprints, bem como gerenciar as tarefas atribuídas a cada uma delas.
+	Realizado o Controle de Sprint: gerenciamento e acompanhamento das avaliações realizadas em ciclos curtos e iterativos, para facilitar o controle e a gestão da aplicação. É no controle de sprints, que é possível criar, editar, visualizar e excluir sprints, bem como gerenciar as tarefas atribuídas a cada uma delas.
 	  
-	  Nesta etapa, atuei no desenvolvimento da funcionalidade de:
-	  - Editar Sprints:
-	  Segue vídeo da aplicação, para "Editar Sprints":
-	  https://github.com/iNineBD/1Sem2023/assets/117841950/37bad4d2-0eba-49f1-ab45-048e6edf2a21
+	Nesta etapa, atuei no desenvolvimento da funcionalidade de:
+	- Editar Sprints:
+	Segue vídeo da aplicação, para "Editar Sprints":
+	https://github.com/iNineBD/1Sem2023/assets/117841950/37bad4d2-0eba-49f1-ab45-048e6edf2a21
 
 
-	  Atualização e reestruturação do Backlog:
+	Atualização e reestruturação do Backlog:
 	  |  **ÉPICO**  | **USER STORE** | **PRIORIDADE** | **SPRINT** | **STATUS** |
 	  |-------------------------|---------------------|----------------|-------------------------|------------------------|
 	  | Avaliação 360° | O sistema deve realizar uma avaliação dos integrantes do time e uma autoavaliação para analisar o desempenho como equipe | Alta | 2 | **Realizado** |
@@ -133,7 +133,7 @@ Dessa forma, seguem os desenvolvimentos de cada sprint, estruturadas da seguinte
 	  | Fluxograma | Um protótipo que permite uma visualização ramificada do sistema | Baixa | 1 | **Realizado** |
 
 	- _Sprint 4_:
-	  Realizados os Dashboards para acesso do Administrador:
+	Realizados os Dashboards para acesso do Administrador:
 	  - Dashboard Global: visualização de todas as sprints como um todo, contendo as notas obtidas pela avaliação 360° através de médias
 	  ![image](https://github.com/iNineBD/1Sem2023/assets/117841950/cde261e1-7dce-430b-98da-439f93bf4ecf)
 
