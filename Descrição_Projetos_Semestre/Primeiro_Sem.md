@@ -1,6 +1,7 @@
 ## 1º Semestre – 2023/1
 
 <details> 
+
 ### Apresentação do Parceiro: Cliente Interno (FATEC)
 
 Para o 1° Semestre, devido a necessidade de aprendizagem e o contato inicial com a metodologia _Scrum_, o cliente definido foi interno, ou seja, a própria FATEC. 
