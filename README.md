@@ -109,8 +109,8 @@ Criar novo Time;
 Visualizar turmas;
 
 Segue vídeo da aplicação, para Controle de Times:
-![image](https://user-images.githubusercontent.com/117841950/233761467-a033dace-3d99-459e-9bb4-9ad25e0c8037.mp4)
-
+https://user-images.githubusercontent.com/117841950/233761467-a033dace-3d99-459e-9bb4-9ad25e0c8037.mp4
+[Clique aqui para ver o vídeo de demonstração](https://user-images.githubusercontent.com/117841950/233761467-a033dace-3d99-459e-9bb4-9ad25e0c8037.mp4)
 
 - _Sprint 3_:
 
@@ -120,7 +120,8 @@ Nesta etapa, atuei no desenvolvimento da funcionalidade de:
 Editar Sprints:
 
 Segue vídeo da aplicação, para "Editar Sprints":
-![image](https://github.com/iNineBD/1Sem2023/assets/117841950/37bad4d2-0eba-49f1-ab45-048e6edf2a21)
+https://github.com/iNineBD/1Sem2023/assets/117841950/37bad4d2-0eba-49f1-ab45-048e6edf2a21
+[Clique aqui para ver o vídeo de demonstração](https://github.com/iNineBD/1Sem2023/assets/117841950/37bad4d2-0eba-49f1-ab45-048e6edf2a21)
 
 
 Atualização e reestruturação do Backlog:
