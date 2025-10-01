@@ -82,7 +82,8 @@ Para a elaboração e desenvolvimento do projeto no 1° semestre as minhas contr
 Dessa forma, seguem os desenvolvimentos de cada sprint, estruturadas da seguinte forma:
 
 - _Sprint 1_:
-	  Responsável por entender, conversar com o cliente e realizar o planejamento do Backlog:
+
+Responsável por entender, conversar com o cliente e realizar o planejamento do Backlog:
 
 |  **ÉPICO**  | **USER STORY** | **PRIORIDADE** | **SPRINT** | **STATUS** |
 |-------------------------|---------------------|----------------|-------------------------|------------------------|
