@@ -107,6 +107,7 @@ Criar novo Time;
 Visualizar turmas;
 
 Segue vídeo da aplicação, para Controle de Times:
+
 [Clique aqui para ver o vídeo de demonstração](Descricao_Projetos_Semestre/Videos/Controle_Times_1Sem.mp4)
 
 - _Sprint 3_:
@@ -117,6 +118,7 @@ Nesta etapa, atuei no desenvolvimento da funcionalidade de:
 Editar Sprints:
 
 Segue vídeo da aplicação, para "Editar Sprints":
+
 [Clique aqui para ver o vídeo de demonstração](Descricao_Projetos_Semestre/Videos/Controle_Sprints_1Sem.mp4)
 
 
@@ -169,6 +171,7 @@ Precisei desempenhar e desenvolver muito a comunicação para interagir as pesso
 ## 2º Semestre – 2023/2
 
 <details> 
+
 ### Apresentação do Parceiro (Empresa) - Quem é?
 
 Para o 2° Semestre, a API contou novamente com o Cliente Interno: FATEC.
