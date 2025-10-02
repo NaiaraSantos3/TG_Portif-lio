@@ -67,8 +67,7 @@ Criar novo Time;
 Visualizar turmas;
 
 Segue vídeo da aplicação, para Controle de Times:
-https://user-images.githubusercontent.com/117841950/233761467-a033dace-3d99-459e-9bb4-9ad25e0c8037.mp4
-[Clique aqui para ver o vídeo de demonstração](https://user-images.githubusercontent.com/117841950/233761467-a033dace-3d99-459e-9bb4-9ad25e0c8037.mp4)
+[Clique aqui para ver o vídeo de demonstração](Videos/Controle_Times_1Sem.mp4)
 
 - _Sprint 3_:
 
@@ -78,8 +77,7 @@ Nesta etapa, atuei no desenvolvimento da funcionalidade de:
 Editar Sprints:
 
 Segue vídeo da aplicação, para "Editar Sprints":
-https://github.com/iNineBD/1Sem2023/assets/117841950/37bad4d2-0eba-49f1-ab45-048e6edf2a21
-[Clique aqui para ver o vídeo de demonstração](https://github.com/iNineBD/1Sem2023/assets/117841950/37bad4d2-0eba-49f1-ab45-048e6edf2a21)
+[Clique aqui para ver o vídeo de demonstração](Videos/Controle_Sprints_1Sem.mp4)
 
 
 Atualização e reestruturação do Backlog:
@@ -103,16 +101,16 @@ Atualização e reestruturação do Backlog:
 Realizados os Dashboards para acesso do Administrador:
 
 Dashboard Global: visualização de todas as sprints como um todo, contendo as notas obtidas pela avaliação 360° através de médias
-![image](https://github.com/iNineBD/1Sem2023/assets/117841950/cde261e1-7dce-430b-98da-439f93bf4ecf)
+![image](Imagens/Tela_Dashboard_Global_Sem1.png)
 
 Dashboard Turmas, Times, Integrantes: fornecem informações sobre as Turmas, Times e Integrantes:
-![image](https://github.com/iNineBD/1Sem2023/assets/117841950/9a3f8ae9-c7f6-446e-a567-2366ccce3ba6)
+![image](Imagens/Tela_Dashboard_Turmas_Times_Sem1.png)
 
 Feedback: Para que Integrante(Aluno) tenha conhecimento do "motivo" da nota baixa. 
 
 O feedback é obrigatório sempre que for inserido uma nota menor ou igual a 3, as informações de feedback são salvas no sistema e o Integrante pode visualiza-las sempre que necessário.
 
-![image](https://github.com/iNineBD/1Sem2023/assets/117841950/b74b7fc1-be6f-4612-8bef-930d0b17dec4)
+![image](Imagens/Tela_Feedback_Sem1.png)
 
 #### Hard Skills
   - Estuturação do Backlog: faço com autonomia;

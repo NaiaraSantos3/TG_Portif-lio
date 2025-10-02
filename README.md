@@ -43,8 +43,6 @@ Neste portifólio, serão apresentadas os parceiros (clientes), meus aprendizado
 
 <details> 
 
-### Apresentação do Parceiro: Cliente Interno (FATEC)
-
 Para o 1° Semestre, devido a necessidade de aprendizagem e o contato inicial com a metodologia _Scrum_, o cliente definido foi interno, ou seja, a própria FATEC. 
 Para uma dinâmica e vivência completa, contamos com apoio dos professores e do Coordenador do Curso, sendo respectivamente:
 - Na função de P2: Lucas Gonçalves Nadalete;
@@ -61,11 +59,11 @@ Segue link para conhecer a aplicação _Avaliação 360°_:
 
 [Aplicação _Avaliação 360°_](https://github.com/iNineBD/Aval360-1Sem2023)
 
-
 #### Tecnologias Utilizadas
-As ferramentas utilizadas foram:
+As tecnologias utilizadas foram:
 
-![image](https://github.com/iNineBD/1Sem2023/assets/117841950/245264a5-33bd-4e41-b2f4-90ec30dbb475)
+![Tecnologias Utilizadas](Descricao_Projetos_Semestre/Imagens/tecnologias_1sem.png)
+
 - _Python_: linguagem utilizada no projeto;
 - _Visual Studio Code_: IDE definida para uso de todo o time de desenvolvimento;
 - _Excel_: uso interno na equipe, para o controle das avaliações do time durante as sprints, dashboards e apoio no desenvolvimento do _burndown_;
@@ -109,8 +107,7 @@ Criar novo Time;
 Visualizar turmas;
 
 Segue vídeo da aplicação, para Controle de Times:
-https://user-images.githubusercontent.com/117841950/233761467-a033dace-3d99-459e-9bb4-9ad25e0c8037.mp4
-[Clique aqui para ver o vídeo de demonstração](https://user-images.githubusercontent.com/117841950/233761467-a033dace-3d99-459e-9bb4-9ad25e0c8037.mp4)
+[Clique aqui para ver o vídeo de demonstração](Descricao_Projetos_Semestre/Videos/Controle_Times_1Sem.mp4)
 
 - _Sprint 3_:
 
@@ -120,8 +117,7 @@ Nesta etapa, atuei no desenvolvimento da funcionalidade de:
 Editar Sprints:
 
 Segue vídeo da aplicação, para "Editar Sprints":
-https://github.com/iNineBD/1Sem2023/assets/117841950/37bad4d2-0eba-49f1-ab45-048e6edf2a21
-[Clique aqui para ver o vídeo de demonstração](https://github.com/iNineBD/1Sem2023/assets/117841950/37bad4d2-0eba-49f1-ab45-048e6edf2a21)
+[Clique aqui para ver o vídeo de demonstração](Descricao_Projetos_Semestre/Videos/Controle_Sprints_1Sem.mp4)
 
 
 Atualização e reestruturação do Backlog:
@@ -145,16 +141,16 @@ Atualização e reestruturação do Backlog:
 Realizados os Dashboards para acesso do Administrador:
 
 Dashboard Global: visualização de todas as sprints como um todo, contendo as notas obtidas pela avaliação 360° através de médias
-![image](https://github.com/iNineBD/1Sem2023/assets/117841950/cde261e1-7dce-430b-98da-439f93bf4ecf)
+![image](Descricao_Projetos_Semestre/Imagens/Tela_Dashboard_Global_Sem1.png)
 
 Dashboard Turmas, Times, Integrantes: fornecem informações sobre as Turmas, Times e Integrantes:
-![image](https://github.com/iNineBD/1Sem2023/assets/117841950/9a3f8ae9-c7f6-446e-a567-2366ccce3ba6)
+![image](Descricao_Projetos_Semestre/Imagens/Tela_Dashboard_Turmas_Times_Sem1.png)
 
 Feedback: Para que Integrante(Aluno) tenha conhecimento do "motivo" da nota baixa. 
 
 O feedback é obrigatório sempre que for inserido uma nota menor ou igual a 3, as informações de feedback são salvas no sistema e o Integrante pode visualiza-las sempre que necessário.
 
-![image](https://github.com/iNineBD/1Sem2023/assets/117841950/b74b7fc1-be6f-4612-8bef-930d0b17dec4)
+![image](Descricao_Projetos_Semestre/Imagens/Tela_Feedback_Sem1.png)
 
 #### Hard Skills
   - Estuturação do Backlog: faço com autonomia;
@@ -173,7 +169,83 @@ Precisei desempenhar e desenvolver muito a comunicação para interagir as pesso
 ## 2º Semestre – 2023/2
 
 <details> 
+### Apresentação do Parceiro (Empresa) - Quem é?
 
+Para o 2° Semestre, a API contou novamente com o Cliente Interno: FATEC.
+
+### Objetivo do Projeto
+Para o desenvolvimento da API do 2° Semestre, foi proposto o seguinte desafio:
+
+Para o curso de Análise e Desenvolvimento de Sistemas (ADS), a FATEC – São José dos Campos enfrenta diversos desafios no gerenciamento dos Trabalhos de Graduação (TGs), principalmente devido à ausência de um sistema prático e eficiente para essa finalidade. A ausência de uma organização, dificulta o acompanhamento do progresso dos alunos e compromete a gestão dos projetos.
+
+Dessa forma, foi solicitado o desenvolvimento de um Sistema de Gerenciamento de Banco de Dados, com o objetivo de centralizar e simplificar toda a administração dos TGs. A ferramenta será utilizada para um acompanhamento mais eficaz das etapas, prazos de entrega e status dos projetos, promovendo maior controle e organização ao longo do processo.
+
+Segue link para conhecer a aplicação _Sistema Gerenciador de TGs_:
+
+[Aplicação _Sistema Gerenciador de TGs_](https://github.com/iNineBD/SGTG-2Sem2023)
+
+#### Tecnologias Utilizadas
+As tecnologias utilizadas foram:
+
+![Tecnologias Utilizadas](Descricao_Projetos_Semestre/Imagens/tecnologias_2sem.png)
+
+- _Java_: linguagem utilizada no projeto;
+- _Eclipse_: IDE definida para uso de todo o time de desenvolvimento;
+- _MySQL_: Banco de Dados utilizado para o gerenciamento dos dados da aplicação;
+- _JavaFX_: _framework_ utilizado para a a criação das interfaces gráficas da aplicação (frontend);
+- _Clickup_: para registrar/movimentar as tasks, registrar o tempo médio na realização dos cards (tarefas) e acompanhar a conclusão de todo o backlog proposto;
+- _Figma_: elaborado os protótipos das telas para validação com o cliente e modelo para o Time de Desenvolvimento.
+
+#### Contribuições Pessoais
+Para a elaboração e desenvolvimento do projeto no 2° semestre, atuei como _Developer_. 
+
+Seguem os desenvolvimentos de cada sprint, estruturadas da seguinte forma:
+
+- _Sprint 1_:
+Responsável por elaborar os protótipos das seguintes telas:
+
+Tela inicial e para carregar CSV:: é a primeira tela apresentada para o usuário. Possui um barra de ferramentas, onde todas as demais funcionalidades do sistema podem ser acessadas.
+	
+![Tela inicial](Descricao_Projetos_Semestre/Imagens/Imagem_modelo_tela_inicial.png)
+	
+Tela de Gerenciar Alunos: 
+
+Em "Gerenciar Alunos" os dados de todos os alunos são exibidos de forma resumida. Na coluna de ações há dois botões, para visualização do aluno e feedback.
+
+![Tela Gerenciar Alunos](Descricao_Projetos_Semestre/Imagens/Imagem_modelo_tela_gerenciar_alunos.png)
+
+E também a tela "Nome Aluno" os elementos são particulares de apenas um aluno, sendo possível modifica-los a partir do botão "Editar aluno".
+
+![Tela Nome Aluno](Descricao_Projetos_Semestre/Imagens/Imagem_modelo_tela_nome_aluno.png)
+
+
+Tela de Confirmação: idealizada para que o usuário visualize todas as informações preenchidas pelo aluno no questionário que foram carregadas do CSV, e caso haja algum erro nas informações, será nesta tela que o usuário poderá modifica-las.
+
+![Tela Confirmação](Descricao_Projetos_Semestre/Imagens/Imagem_modelo_tela_confirma_info.png)
+
+- _Sprint 2_:
+Desenvolvimento de alguns filtros no backend para aplicação, sendo:
+
+Filtro para o Nome;
+
+Filtro do nome e e-mail institucional; 
+
+- _Sprint 3_:
+Iniciado o desenvolvimento do relatório de orientador x aluno, destinado para o "Professor", que fosse utilizar a aplicação;
+
+- _Sprint 4_:
+Finalizado o relatório de Orientador X Aluno, nomeado como "Transporte Notas". O objetivo é associar os dois dados para geração do relatório:
+
+![Tela_Relatório](Descricao_Projetos_Semestre/Videos/Relatorio_OrientadorXAluno_2sem.mp4)
+
+#### Hard Skills
+- Figma para desenvolvimento de protótipo: sei fazer com autonomia;
+- Java: sei fazer com ajuda/pesquisa;
+- Eclipse: sei utilizar com autonomia;
+- GitHub: eu sei fazer com ajuda/pesquisa;
+
+#### Soft Skills
+Precisei desempenhar/desenvolver habilidades voltadas totalmente para o a função de _Developer_, já que as minhas tasks estavam relacionadas ao frontend e backend. Além disso, foi desafiador pois a linguagem e a IDE utilizadas, foram diferentes do proposto no 1° semestre.
 </details>
 
 ## 3º Semestre – 2024/1

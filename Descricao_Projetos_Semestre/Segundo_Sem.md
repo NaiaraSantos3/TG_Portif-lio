@@ -6,8 +6,6 @@
 Para o 2° Semestre, a API contou novamente com o Cliente Interno: FATEC.
 
 ### Objetivo do Projeto
-" Fale sobre o projeto desenvolvido. Apresente a empresa parceira, o problema e a solução entregue pela equipe (mínimo de um parágrafo por item). Recomenda-se o uso de figuras (ou até mesmo vídeos) para ilustrar os principais projetos."
-
 Para o desenvolvimento da API do 2° Semestre, foi proposto o seguinte desafio:
 
 Para o curso de Análise e Desenvolvimento de Sistemas (ADS), a FATEC – São José dos Campos enfrenta diversos desafios no gerenciamento dos Trabalhos de Graduação (TGs), principalmente devido à ausência de um sistema prático e eficiente para essa finalidade. A ausência de uma organização, dificulta o acompanhamento do progresso dos alunos e compromete a gestão dos projetos.
@@ -81,4 +79,5 @@ Finalizado o relatório de Orientador X Aluno, nomeado como "Transporte Notas". 
 
 #### Soft Skills
 Precisei desempenhar/desenvolver habilidades voltadas totalmente para o a função de _Developer_, já que as minhas tasks estavam relacionadas ao frontend e backend. Além disso, foi desafiador pois a linguagem e a IDE utilizadas, foram diferentes do proposto no 1° semestre.
+
 </details>
