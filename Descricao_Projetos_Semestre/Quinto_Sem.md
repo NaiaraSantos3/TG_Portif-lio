@@ -48,8 +48,24 @@ Para a elaboração e desenvolvimento do projeto no X° semestre as minhas contr
 Dessa forma, seguem os desenvolvimentos de cada sprint, estruturadas da seguinte forma:
 
     - _Sprint 1_:
+
+  Realizado a Definição dos Indicadores e seus Respectivos Gráficos (VSN-29): se trata de uma análise e definição para os tipos de gráficos, a fim de melhor se adequar ao indicador a ser exibido no dashboard. Segue lista quanto a definição:
+
+| Indicador                                          | Gráfico Selecionado         |
+|----------------------------------------------------|-----------------------------|
+| Quantidade de Cards por Etiqueta                   | Barras horizontais          |
+| Quantidade de Cards Criados por Período            | Linhas ou barras verticais  |
+| Quantidade de Cards Finalizados por Período        | Linhas ou barras empilhadas |
+| Quantidade de Cards por Status (Coluna do Kanban)  | Barras verticais empilhadas |
+| Tempo Médio de Execução do Card                    | Barras horizontais          |
+| Cards por Colaborador                              | Barras horizontais          |
+| Retrabalhos                                        | Gráfico de Pizza            |
+
+VSN-17.
+
     - _Sprint 2_:
     - _Sprint 3_:
+    - _Sprint 4_:
 
 #### Hard Skills
 Apresente as hard skills que você utilizou/desenvolveu durante o projeto e o nível de proficiência alcançado. Exemplo: CSS - Sei fazer com autonomia
