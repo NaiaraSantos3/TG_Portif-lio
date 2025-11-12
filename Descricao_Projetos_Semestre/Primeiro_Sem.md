@@ -3,8 +3,8 @@
 <details> 
 
 ### Apresentação do Parceiro: Cliente Interno (FATEC)
-Para o 1° Semestre, devido a necessidade de aprendizagem e o contato inicial com a metodologia _Scrum_, o cliente definido foi interno, ou seja, a própria FATEC. 
-Para uma dinâmica e vivência completa, contamos com apoio dos professores e do Coordenador do Curso, sendo respectivamente:
+Para o 1° Semestre, devido a necessidade de aprendizagem e o contato inicial com a metodologia _Scrum_, o cliente foi interno, ou seja, a própria FATEC. 
+Para uma dinâmica e vivência completa, contamos com apoio dos professores e Coordenador do Curso, sendo eles:
 - Na função de P2: Lucas Gonçalves Nadalete;
 - Na função de M2: Fabiano Sabha Walczak 
 - Na função de Cliente (Coordenador de Banco de Dados, durante o desenvolvimento do projeto): Jose Walmir Gonçalves Duque 
@@ -33,11 +33,11 @@ As tecnologias utilizadas foram:
 - _Discord_: reuniões da equipe para apoio no desenvolvimento do projeto;
 
 #### Contribuições Pessoais
-Para a elaboração e desenvolvimento do projeto no 1° semestre as minhas contribuições foram as seguintes atribuições:
-- _Product Owner_: interagi com o cliente durante todo o projeto, a fim de melhor compreender o produto a ser desenvolvido, para repassar ao Time de Desenvolvimento.
-- _Developer_: em algumas tasks, realizei apoio ao time, atuando também no backend. 
+Para a elaboração e desenvolvimento do projeto no 1° semestre as minhas contribuições foram:
+- _Product Owner_: interagi com o cliente, na função de Product Owner (PO) durante todo o projeto, a fim de melhor compreender o produto a ser desenvolvido, para repassar ao Time de Desenvolvimento.
+- _Developer_: realizei algumas tasks para apoiar o time, atuando diretamente no backend. 
 
-Dessa forma, seguem os desenvolvimentos de cada sprint, estruturadas da seguinte forma:
+Sendo assim, seguem minhas contribuições por Sprint, neste projeto:
 
 - _Sprint 1_:
 
