@@ -15,21 +15,47 @@ Seguem os links para conhecer a aplicação _GeoTrack_:
 
 
 #### Tecnologias Utilizadas
-(Descrever as tecnologias utilizadas)
+As tecnologias utilizadas foram:
+
+![Tecnologias Utilizadas](Descricao_Projetos_Semestre/Imagens/tecnologias_4sem.png)
+
+-_Vue.js_: framework JavaScript utilizado no frontend;
+-_Vuetify_: biblioteca de componentes de interface com o _Vue.js_;
+-_Spring Boot_: framework utilizado no backend para o desenvolvimento em Java;
+-_Redis_: sistema de armazenamento em memória voltado para cache e manipulação eficiente de estruturas de dados, proporcionando uma resposta mais rápida e alta performance na aplicação.
+-_docker_: usado para unificar e gerenciar os ambientes de banco de dados, frontend e backend em contêineres;
+-_Oracle_: banco de dados relacional utilizado pela sua escalabilidade e confiabilidade no armazenamento de informações;
+-_API Google Maps_: utilizada para integração de mapas interativos, assegurando uniformidade no estilo e acesso a recursos como geolocalização, rotas e maior praticidade para uso da ferramenta;
+-_YouTrack_: utilizada para organização de tarefas e visualização do progresso do time;
 
 #### Contribuições Pessoais
-Para a elaboração e desenvolvimento do projeto no 4° semestre as minhas contribuições foram as seguintes atribuições:
+Para a elaboração e desenvolvimento do projeto no 4° semestre as minhas contribuições foram:
+- _Developer_: realizei tasks para apoiar o time, atuando diretamente no frontend. 
 
-Dessa forma, seguem os desenvolvimentos de cada sprint, estruturadas da seguinte forma:
+Sendo assim, seguem minhas contribuições por Sprint, neste projeto:
 
-  	- _Sprint 1_:
-    - _Sprint 2_:
-    - _Sprint 3_:
-    - _Sprint 4_:
+  - _Sprint 1_: 
+    - Protótipo de tela (A4-22)
+    - Ler a listagem dos usuários e dispositivos mandados pelo back e enviar o usuário selecionado e dispositivo para o back (A4-36)
+    - Wiki do GitHub (A4-39)
+
+  - _Sprint 2_:
+    - front-end -> Implementação de tratamentos de erro (A4-63)
+
+  - _Sprint 3_:
+    - Implementação modo dark e modo light 
+    - Implementação de botão home (A4-81)
+
+  - _Sprint 4_: 
+    - Revisão do manual do usuário
+    - Teste da aplicação
+    - Documentação do GitHub
 
 #### Hard Skills
-Apresente as hard skills que você utilizou/desenvolveu durante o projeto e o nível de proficiência alcançado. Exemplo: CSS - Sei fazer com autonomia
+ - Utilização do Vue: faço com autonomia;
+ - Wiki do GitHub: faço com autonomia;
 
 #### Soft Skills
-Apresente as soft skills que você utilizou/desenvolveu durante o projeto e em quais situações elas foram fundamentais. Exemplo: Comunicação - Precisei exercitar minhas habilidades de comunicação para viabilizar as reuniões semanais levando em conta as disponibilidades dos membros, que não cursavam as mesmas disciplinas.
+Durante o projeto, precisei aprimorar minhas habilidades de comunicação para interagir de forma mais eficiente com o time, compartilhando ideias, alinhando expectativas e acompanhando o andamento das tarefas em grupo.
+
 </details>
