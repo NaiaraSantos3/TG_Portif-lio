@@ -15,8 +15,6 @@ Para este projeto, foi proposto a elaboração de um sistema que integrado a um 
   - Gestor: consegue visualizar os indicadores dos cards atribuídos a si mesmo e/ou que estão na responsabilidade do seu time;
   - Admin: é possível acessar todos os indicadores (de todos os usuários) e de todos os times;
 
-" Fale sobre o projeto desenvolvido. Apresente a empresa parceira, o problema e a solução entregue pela equipe (mínimo de um parágrafo por item). Recomenda-se o uso de figuras (ou até mesmo vídeos) para ilustrar os principais projetos."
-
 Segue o link para conhecer a aplicação _Vision_:
 [Aplicação _Vision_](https://github.com/new-ge/VISION)
 
@@ -35,17 +33,17 @@ Nesta API, as tecnologias utilizadas foram:
 - Discord: ferramenta que possibilitou as reuniões onlines de maneira interativa, para discusão e apoio de criação, modificação e ajustes a serem implementados no projeto; 
 - Vue: para a realização e estilização do Frontend;
 - _Visual Studio Code_ (_VSCode_): toda a equipe utilizou para a elaboração do código em backend e frontend, a fim de evitar inconsistências e manter a padronização;
-- GitHub: plataforma online que utiliza o sistema de Git em núvem, além de ser local fundamental no armazenamento, integração, organização e documentação oficial e entregáveis de todo o projeto;
-- TS:
-- SpringBoot:
-- PostSQL:
-- Docker: 
+-_GitHub_: plataforma online que utiliza o sistema de Git em núvem, além de ser local fundamental no armazenamento, integração, organização e documentação oficial e entregáveis de todo o projeto;
+-_TS_ (TypeScript): utilizado no frontend com tipagem estática, garantindo maior segurança, padronização do código e facilidade na manutenção da aplicação;
+- SpringBoot: framework utilizado no backend para o desenvolvimento em Java;
+- _PostgreSQL_: banco de dados utilizado para a alta escalabilidade de dados;
+-_Docker_: usado para unificar e gerenciar os ambientes de banco de dados, frontend e backend em contêineres;
 
 #### Contribuições Pessoais
-Para a elaboração e desenvolvimento do projeto no X° semestre as minhas contribuições foram as seguintes atribuições:
+Para a elaboração e desenvolvimento do projeto no 4° semestre as minhas contribuições foram:
 
 
-Dessa forma, seguem os desenvolvimentos de cada sprint, estruturadas da seguinte forma:
+Sendo assim, seguem minhas contribuições por Sprint, neste projeto:
 
     - _Sprint 1_:
 
@@ -61,10 +59,50 @@ Dessa forma, seguem os desenvolvimentos de cada sprint, estruturadas da seguinte
 | Cards por Colaborador                              | Barras horizontais          |
 | Retrabalhos                                        | Gráfico de Pizza            |
 
+- Apoio a equipe para a estruturação/modelagem do banco de dados;
+
+- VSN-99: Visual Filtros
+
+
 VSN-17.
 
+
+
+
+
+
+VSN-168
+VSN-150 
+
+
+VSN-139: Requisição tempo médio de execução - Admin
+
+Devops
+
+
+VSN-121, identifiquei com apoio do Vinicius que não existia nenhuma implementação ou melhoria a ser feita, já que os cards por status já está com a implementação com base no "Assigned to". 
+Dessa forma, peguei uma nova task para tratar, sendo a VSN-98
+
+
+
     - _Sprint 2_:
+
+    VSN-121: Atualizar EndPoint de Cards por Status
+    VSN-98: Endpoint Filtro Funcionários
+
+
+
+  
     - _Sprint 3_:
+
+    VSN-88: Requisição Tempo Médio de Execução
+    VSN-79: Endpoint de Tempo Médio de Execução
+    VSN-97: Requisição Filtro Funcionário
+    VSN-151: Requisição Filtro Sprint
+    VSN-130: EndPoint Gestão de Acessos - Gestor
+    VSN-131:
+
+
     - _Sprint 4_:
 
 #### Hard Skills
