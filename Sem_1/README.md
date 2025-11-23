@@ -82,4 +82,4 @@ Acesse os demais projetos desenvolvidos ao longo do curso:
 
 ---
 
-[**Voltar à Página Inicial**](../README.md)
+[**Voltar à Página Inicial**](README.md)
