@@ -19,6 +19,8 @@ Segue link para conhecer a aplicação _Avaliação 360°_:
 ## Tecnologias Utilizadas
 As tecnologias utilizadas foram:
 
+[Colocar a imagem das tecnologias]
+
 ![Tecnologias Utilizadas](Imagens/tecnologias_1sem.png)
 
 - Python: linguagem utilizada no projeto;
@@ -64,3 +66,20 @@ Precisei desempenhar e desenvolver muito a comunicação para interagir as pesso
 - Dinâmica/funcionamento e as boas práticas da metodologia Scrum;
 - Saber interagir/conversar com o cliente: por mais que o projeto tenha sido sem um cliente externo, a dinâmica exigiu um comprometimento e um comportamento à altura;
 - Aprender atuar como PO: saber/entender o problema do cliente e repassar ao time de desenvolvimento;
+
+
+# Visualize os outros Projetos
+
+Acesse os demais projetos desenvolvidos ao longo do curso:
+
+| Semestre | Projeto | Link |
+|----------|---------|-------|
+| 2º Semestre | *Sistema Gerenciador de TGs* | [Acessar](Sem_2/README.md) |
+| 3º Semestre | *DataFlow* | [Acessar](Sem_3/README.md) |
+| 4º Semestre | *GeoTrack* | [Acessar](Sem_4/README.md) |
+| 5º Semestre | *VISION* | [Acessar](Sem_5/README.md) |
+| 6º Semestre | *LuminIA* | [Acessar](Sem_6/README.md) |
+
+---
+
+[**Voltar à Página Inicial**](../README.md)
