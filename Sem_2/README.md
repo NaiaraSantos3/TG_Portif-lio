@@ -1,7 +1,8 @@
 <h1 align="center">API 2º Semestre – 02/2023</h1>
 
-## Cliente: 
+## Cliente: FATEC São José dos Campos - Prof° Jessen Vidal (Cliente Interno)
 
+Para o 2° Semestre, a API contou novamente com o Cliente Interno: FATEC.
 
 
 [Colocar imagem Logo Fatec]
@@ -9,6 +10,13 @@
 
 ## Objetivo do Projeto
 
+Para o curso de Análise e Desenvolvimento de Sistemas (ADS), a FATEC – São José dos Campos enfrenta diversos desafios no gerenciamento dos Trabalhos de Graduação (TGs), principalmente devido à ausência de um sistema prático e eficiente para essa finalidade. A ausência de uma organização, dificulta o acompanhamento do progresso dos alunos e compromete a gestão dos projetos.
+
+Dessa forma, foi solicitado o desenvolvimento de um Sistema de Gerenciamento de Banco de Dados, com o objetivo de centralizar e simplificar toda a administração dos TGs. A ferramenta será utilizada para um acompanhamento mais eficaz das etapas, prazos de entrega e status dos projetos, promovendo maior controle e organização ao longo do processo.
+
+Segue link para conhecer a aplicação _Sistema Gerenciador de TGs_:
+
+[Aplicação _Sistema Gerenciador de TGs_](https://github.com/iNineBD/SGTG-2Sem2023)
 
 
 ## Tecnologias Utilizadas
@@ -16,15 +24,47 @@ As tecnologias utilizadas foram:
 
 [Colocar a imagem das tecnologias]
 
+- Java: linguagem utilizada no projeto;
+- Eclipse: IDE definida para uso de todo o time de desenvolvimento;
+- MySQL: Banco de Dados utilizado para o gerenciamento dos dados da aplicação;
+- JavaFX: _framework_ utilizado para a a criação das interfaces gráficas da aplicação (frontend);
+- Clickup: para registrar/movimentar as tasks, registrar o tempo médio na realização dos cards (tarefas) e acompanhar a conclusão de todo o backlog proposto;
+- Figma: elaborado os protótipos das telas para validação com o cliente e modelo para o Time de Desenvolvimento.
 
 ## Contribuições Pessoais
 
+Durante o desenvolvimento do Sistema Gerenciador de TGs, atuei exclusivamente como Desenvolvedora, contribuindo tanto no frontend quanto no backend. Minhas principais contribuições foram:
 
+- Frontend / Prototipação
+    - Criação dos protótipos das principais telas no Figma, incluindo:
+        - Tela inicial e interface de carregamento de CSV;
+        - Tela de Gerenciamento de Alunos;
+        - Tela de Detalhamento do Aluno (visualização e edição);
+        - Tela de Confirmação de Dados.
+- Suporte ao time de desenvolvimento por meio de protótipos claros e estruturados, garantindo alinhamento entre design e implementação.
+
+- Backend / Funcionalidades
+    - Implementação de filtros de busca para a área administrativa, como:
+        - Filtro por nome;
+        - Filtro por nome + e-mail institucional.
+    - Desenvolvimento do relatório Orientador x Aluno, utilizado pelos professores para acompanhamento acadêmico.
+    - Finalização da funcionalidade nomeada como “Transporte de Notas”, responsável por consolidar dados do orientador e aluno para geração do relatório final.
+
+- Colaboração e Processo
+    - Participação ativa nas cerimônias Scrum (daily, planning e retrospectiva).
+    - Acompanhamento e atualização das tasks utilizando ClickUp.
+    - Contribuições constantes na validação do comportamento das telas e na revisão das funcionalidades entregues.
 
 ## Hard Skills
 
+- Figma para desenvolvimento de protótipo: sei fazer com autonomia;
+- Java: sei fazer com ajuda/pesquisa;
+- Eclipse: sei utilizar com autonomia;
+- GitHub: eu sei fazer com ajuda/pesquisa;
+
 ## Soft Skills
 
+Precisei desempenhar/desenvolver habilidades voltadas totalmente para o a função de _Developer_, já que as minhas tasks estavam relacionadas ao frontend e backend. Além disso, foi desafiador pois a linguagem e a IDE utilizadas, foram diferentes do proposto no 1° semestre.
 
 # Visualize os outros Projetos
 
