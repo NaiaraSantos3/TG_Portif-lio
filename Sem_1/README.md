@@ -82,4 +82,4 @@ Acesse os demais projetos desenvolvidos ao longo do curso:
 
 ---
 
-[**Voltar à Página Inicial**](https://github.com/NaiaraSantos3/TG_Portif-lio/tree/main)
+[**Voltar à Página Inicial**](https://github.com/NaiaraSantos3/TG_Portif-lio)
