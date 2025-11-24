@@ -26,7 +26,7 @@ As tecnologias utilizadas foram:
 ## Soft Skills
 
 
-# Visualize os outros Projetos
+## Visualize os outros Projetos
 
 Acesse os demais projetos desenvolvidos ao longo do curso:
 

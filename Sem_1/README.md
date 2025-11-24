@@ -73,7 +73,7 @@ Precisei desempenhar e desenvolver muito a comunicação para interagir as pesso
 - Aprender atuar como PO: saber/entender o problema do cliente e repassar ao time de desenvolvimento;
 
 
-# Visualize os outros Projetos
+## Visualize os outros Projetos
 
 Acesse os demais projetos desenvolvidos ao longo do curso:
 

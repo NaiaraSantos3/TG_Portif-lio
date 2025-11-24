@@ -72,7 +72,7 @@ Durante o desenvolvimento do Sistema Gerenciador de TGs, atuei exclusivamente co
 Precisei desempenhar/desenvolver habilidades voltadas totalmente para o a função de _Developer_, já que as minhas tasks estavam relacionadas ao frontend e backend. Além disso, foi desafiador pois a linguagem e a IDE utilizadas, foram diferentes do proposto no 1° semestre.
 
 
-# Visualize os outros Projetos
+## Visualize os outros Projetos
 
 Acesse os demais projetos desenvolvidos ao longo do curso:
 
