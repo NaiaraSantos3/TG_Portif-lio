@@ -40,7 +40,7 @@ Nesta API, as tecnologias utilizadas foram:
 -_Docker_: usado para unificar e gerenciar os ambientes de banco de dados, frontend e backend em contêineres;
 
 #### Contribuições Pessoais
-Para a elaboração e desenvolvimento do projeto no 4° semestre as minhas contribuições foram:
+Para a elaboração e desenvolvimento do projeto no 5° semestre as minhas contribuições foram:
 
 
 Sendo assim, seguem minhas contribuições por Sprint, neste projeto:
