@@ -16,6 +16,7 @@ Segue link para conhecer a aplicação _Avaliação 360°_:
 
 [Aplicação _Avaliação 360°_](https://github.com/iNineBD/Aval360-1Sem2023)
 
+
 ## Tecnologias Utilizadas
 As tecnologias utilizadas foram:
 
@@ -31,6 +32,7 @@ As tecnologias utilizadas foram:
 - Monday: para registrar/movimentar as tasks e acompanhar a conclusão de todo o backlog proposto;
 - Discord: reuniões da equipe para apoio no desenvolvimento do projeto;
 
+
 ## Contribuições Pessoais
 
 Durante o desenvolvimento do projeto Avaliação 360°, atuei de forma ativa tanto no papel de Product Owner quanto como Desenvolvedora, contribuindo para o avanço do produto e da equipe. Minhas principais contribuições foram:
@@ -41,6 +43,7 @@ Durante o desenvolvimento do projeto Avaliação 360°, atuei de forma ativa tan
     - Conduzi discussões para definir escopo, prioridades e critérios de aceitação, apoiando o time no entendimento das funcionalidades.
     - Auxiliei na criação do fluxo e prototipação inicial (ex.: fluxograma do sistema) para facilitar a visão geral da solução.
 
+
 - Desenvolvimento
     - Participei da implementação de funcionalidades no backend em Python, realizando tarefas como:
         - Criação e edição de times e turmas no sistema;
@@ -48,6 +51,7 @@ Durante o desenvolvimento do projeto Avaliação 360°, atuei de forma ativa tan
         - Apoio no desenvolvimento de melhorias e ajustes estruturais.
     - Contribuí com testes, revisões e organização das funcionalidades entregues.
     - Apoiei no desenvolvimento de dashboards em Excel, utilizados pelo administrador para análise dos dados coletados.
+
 
 - Colaboração e Metodologia Ágil
     - Atuei ativamente nas cerimônias Scrum (daily, planning, review, retrospectiva).
@@ -59,6 +63,7 @@ Durante o desenvolvimento do projeto Avaliação 360°, atuei de forma ativa tan
   - Estuturação do Backlog: faço com autonomia;
   - Desenvolvimento utilizando Python: sei fazer com ajuda/pesquisa;
   - GitHub: o uso do GitHub e de commits eu sei fazer com ajuda/pesquisa;
+
 
 ## Soft Skills
 Precisei desempenhar e desenvolver muito a comunicação para interagir as pessoas. Apesar de ser comunicativa, foi desafiador conseguir entender:
