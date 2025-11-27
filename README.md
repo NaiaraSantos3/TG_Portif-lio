@@ -1,4 +1,4 @@
-# Apresentação de Portifólio: Naiara Santos
+# Apresentação de Portifolio: Naiara Santos
 
 ## Sumário
 - [Introdução](#introdução)

@@ -13,18 +13,29 @@ Segue o link para conhecer a _Pro4Tech_:
 
 ## Objetivo do Projeto
 
-Para este projeto, foi proposto a modernização de uma Base de Dados disponibilizada pela empresa, sendo em uma versão mais "antiga", para que fosse desenvolvido:
-- Requisitos da LGPD (Lei Geral de Proteção de Dados);
-- Modelagem do Banco de Dados
+Este projeto surgiu da necessidade de modernizar a base de dados de suporte, que se encontrava em uma versão antiga e apresentava limitações importantes. O modelo atual não garante total conformidade com a LGPD, dificulta a organização e a análise das informações e não oferece suporte adequado para auditorias ou para a tomada de decisões.
 
-Segue link para conhecer a aplicação _NOME DA APLICAÇÃO_:
+Dessa forma, o foco do projeto foi a reestruturação e modernização do banco de dados, atendendo aos critérios da LGPD, reorganizando os dados e desenvolvendo dashboards que permitissem a visualização de indicadores relevantes para o cliente.
 
-[Aplicação _NOME DA APLICAÇÃO_](Adcionar o link da aplicação)
+
+Segue link para conhecer a aplicação _LuminIA_:
+
+[Aplicação _LuminIA_](https://github.com/new-ge/LuminIA)
 
 ## Tecnologias Utilizadas
 As tecnologias utilizadas foram:
 
 [Colocar a imagem das tecnologias]
+
+- Figma: elaboração do modelo visual da aplicação;
+- Python e FastApi: Usado no Back-End para testar as APIs.
+- Jira: ferramenta fundamental na organização, distribuição das tasks e visualização de todos os entregáveis definidos no backlog;
+- Git e GitHub: utilizado na realização de commits, merge, branchs e até mesmo a rastreabilidade das tasks;
+- Postman: aplicação de testes de requisções HTTP (GET, POST, PUT, DELETE) e simular interações com a API, bem como seu funcionamento adequado(retornos);
+- HTML, JavaScript, TypeScript e VueJS: Ferramentas usadas no front-end para criação de páginas e aplicações web robustas.
+- Visual Studio Code (_VSCode_): toda a equipe utilizou para a elaboração do código em backend e frontend, a fim de evitar inconsistências e manter a padronização;
+- MongoDB: Banco de dados não relacional utilizado no desenvolvimento do projeto.
+- Flair, Prophet e Sci-Kit: bibliotecas de Machine Learning aplicado no projeto para realizar tarefas como classificação de sentimento, geração automática de respostas para FAQ e modelagem preditiva de demanda.
 
 
 ## Contribuições Pessoais
@@ -33,7 +44,11 @@ As tecnologias utilizadas foram:
 
 ## Hard Skills
 
+
+
 ## Soft Skills
+
+Durante o projeto, precisei aprimorar minhas habilidades de comunicação para interagir de forma mais eficiente com o time, compartilhando ideias, alinhando expectativas e acompanhando o andamento das tarefas em grupo.
 
 
 ## Visualize os outros Projetos
