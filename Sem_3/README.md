@@ -5,9 +5,7 @@
 A _DOM ROCK_ é uma empresa voltada para apoioar clientes de diversos setores e que geram todo o tipo de dado (áudio, e-mail, imagem, etc.) a realizarem análises de dados através do uso da Inteligência Artificial. Com os dados tratatos e analisados, possibilitam aos seus clientes maior acertividade e segurança para as tomadas de decisões.
 
 
-Segue o link para conhecer a _DOM ROCK_:
-
-[_Dom Rock_](https://www.domrock.net/)
+Segue o link para conhecer a _DOM ROCK_: [_Dom Rock_](https://www.domrock.net/)
 
 
 ![Logo Dom Rock](../Descricao_Projetos_Semestre/Rascunhos/Imagens/LogoDomRock.png)

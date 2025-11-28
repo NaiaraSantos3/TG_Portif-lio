@@ -4,8 +4,7 @@
 
 A _Pro4Tech_ é uma empresa especializada em transformação digital, que possui o foco de otimizar a eficiência operacional, aperfeiçoar a experiência do cliente e estimular o crescimento sustentável. Todo esse objetivo é desenvolvido apartir da utilização de tecnologias como a IA (Inteligência Artificial), análise de dados, IoT e computação em núvem, para criar estratégias personalizadas para seus clientes. 
 
-Segue o link para conhecer a _Pro4Tech_:
-[_Pro4Tech_](https://www.pro4tech.com.br/)
+Segue o link para conhecer a _Pro4Tech_: [_Pro4Tech_](https://www.pro4tech.com.br/)
 
 
 ![Logo Pro4Tech](../Descricao_Projetos_Semestre/Rascunhos/Imagens/Logo%20pro4tech.png)

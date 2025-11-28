@@ -4,8 +4,7 @@
 
 A _Youtan_ é uma empresa que atua no desenvolvimento de softwares e aplicativos sob demanda, oferecendo soluções digitais personalizadas para diferentes segmentos do mercado. Fundada em 2002 com o nome Conexão Local Informática LTDA, está sediada no Parque Tecnológico de São José dos Campos (SP) e integra o TIC Vale, o maior cluster de Tecnologia da Informação e Comunicação do Brasil.
 
-Segue o link para conhecer a _Youtan_:
-[_Youtan_](https://youtan.com.br/)
+Segue o link para conhecer a _Youtan_: [_Youtan_](https://youtan.com.br/)
 
 ![Logo Youtan](../Descricao_Projetos_Semestre/Rascunhos/Imagens/LogoYoutan.png)
 

@@ -4,8 +4,7 @@
 
 A _ITO1_ é uma empresa focada em soluções tecnológicas de ponta, com especialização em Internet das Coisas (IoT), Inteligência Artificial (IA), Big Data e cibersegurança. Sediada em São Paulo (SP), atua em todo o Brasil e na América Latina, oferecendo desde a concepção até a implementação e manutenção de soluções digitais sob medida para empresas de diferentes segmentos.
 
-Segue o link para conhecer a _ITO1_:
-[_ITO1_](https://www.ito1.com.br/)
+Segue o link para conhecer a _ITO1_: [_ITO1_](https://www.ito1.com.br/)
 
 ![Logo ITO1](../Descricao_Projetos_Semestre/Rascunhos/Imagens/LogoITO1.png)
 
