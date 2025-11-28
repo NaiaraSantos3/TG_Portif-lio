@@ -61,11 +61,24 @@ As tecnologias utilizadas foram:
 
 ## Hard Skills
 
+**Figma** 🟦🟦🟦  
+
+**Java** 🟦🟦⬜ 
+
+**PostgreSQL** 🟦🟦⬜ 
+
+**Jira** 🟦🟦🟦 
+
+**Postman**🟦🟦⬜ 
+
+**GitHub** 🟦🟦🟦 
+
+**Vue.js** 🟦🟦⬜
 
 
 ## Soft Skills
 
-Durante o projeto, precisei aprimorar minhas habilidades de comunicação para interagir de forma mais eficiente com o time, compartilhando ideias, alinhando expectativas e acompanhando o andamento das tarefas em grupo.
+Durante esse projeto, continuei a desenvolver a comunicação para interagir de forma mais eficiente com o time, compartilhando ideias, alinhando expectativas e acompanhando o andamento das tarefas em grupo.
 
 
 ## Visualize os outros Projetos

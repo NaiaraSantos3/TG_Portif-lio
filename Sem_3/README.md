@@ -23,9 +23,29 @@ Segue link para conhecer a aplicação _DataFlow_: [Aplicação _DataFlow_](http
 ## Tecnologias Utilizadas
 As tecnologias utilizadas foram:
 
-[Colocar a imagem das tecnologias]
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/ClickUp-FC5C29?style=for-the-badge&logo=clickup&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
+</p>
 
-[" Apresente brevemente as tecnologias utilizadas. Uma tecnologia por linha. Indique qual a importância de cada tecnologia para o projeto."]
+
+- HTML5: usada para estruturar e apresentar conteúdo na web;
+- VUE.js: framework JavaScript utilizado no frontend;
+- Javascript: cria funcionalidades e integrações com o backend;
+- CSS3: estiliza e melhora a apresentação do frontend;
+- MySQL: Banco de Dados utilizado para o gerenciamento dos dados da aplicação;
+- Visual Studio Code (_VSCode_): utilizado na elaboração do código em backend e frontend;
+- Figma: elaboração do modelo visual da aplicação;
+- Clickup: ferramenta fundamental na organização, distribuição das tasks e visualização de todos os entregáveis definidos no backlog;
+- Java: linguagem utilizada no projeto;
+
 
 ## Contribuições Pessoais
 
@@ -66,12 +86,18 @@ Durante o desenvolvimento do DataFlow, atuei como Desenvolvedora Front-end, cont
 
 ## Hard Skills
 
-[Apresente as hard skills que você utilizou/desenvolveu durante o projeto e o nível de proficiência alcançado. Exemplo: CSS - Sei fazer com autonomia]
+**Vue.js** 🟦🟦⬜  
+
+**Mysql** 🟦🟦⬜  
+
+**Java** 🟦🟦⬜  
+
+**Clickup** 🟦🟦🟦 
 
 
 ## Soft Skills
 
-[Apresente as soft skills que você utilizou/desenvolveu durante o projeto e em quais situações elas foram fundamentais. Exemplo: Comunicação - Precisei exercitar minhas habilidades de comunicação para viabilizar as reuniões semanais levando em conta as disponibilidades dos membros, que não cursavam as mesmas disciplinas.]
+Durante o projeto, precisei aprimorar minhas habilidades de comunicação para interagir de forma mais eficiente com o time, compartilhando ideias, alinhando expectativas e acompanhando o andamento das tarefas em grupo.
 
 
 ## Visualize os outros Projetos

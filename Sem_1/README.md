@@ -66,16 +66,12 @@ Durante o desenvolvimento do projeto Avaliação 360°, atuei de forma ativa tan
 
 ## Hard Skills
 
-**Estruturação do Backlog**  
-🟦🟦🟦 (3/3) — Faço com autonomia  
+**Estruturação do Backlog** 🟦🟦🟦  
 
-**Python (Desenvolvimento)**  
-🟦🟦⬜ (2/3) — Sei fazer com ajuda/pesquisa  
+**Python (Desenvolvimento)** 🟦🟦⬜ 
 
-**GitHub (commits, organização, versionamento)**  
-🟦🟦⬜ (2/3) — Sei usar com ajuda/pesquisa  
+**GitHub (commits, organização, versionamento)**  🟦🟦⬜  
  
-
 
 ## Soft Skills
 Precisei desempenhar e desenvolver muito a comunicação para interagir as pessoas. Apesar de ser comunicativa, foi desafiador conseguir entender:

@@ -66,17 +66,13 @@ Durante o desenvolvimento do Sistema Gerenciador de TGs, atuei exclusivamente co
 
 ## Hard Skills
 
-**Figma (Desenvolvimento de protótipos)**  
-🟦🟦🟦 (3/3) — Sei fazer com autonomia  
+**Figma (Desenvolvimento de protótipos)** 🟦🟦🟦 
 
-**Java (Desenvolvimento)**  
-🟦🟦⬜ (2/3) — Sei fazer com ajuda/pesquisa  
+**Java (Desenvolvimento)** 🟦🟦⬜ 
 
-**Eclipse (IDE)**  
-🟦🟦🟦 (3/3) — Sei utilizar com autonomia  
+**Eclipse (IDE)** 🟦🟦🟦 
 
-**GitHub (Versionamento e commits)**  
-🟦🟦⬜ (2/3) — Sei usar com ajuda/pesquisa  
+**GitHub (Versionamento e commits)** 🟦🟦⬜   
 
 
 ## Soft Skills

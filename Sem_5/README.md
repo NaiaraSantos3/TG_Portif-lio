@@ -47,7 +47,7 @@ As tecnologias utilizadas foram:
 - Git: utilizado na realização de commits, merge, branchs e até mesmo a rastreabilidade das tasks;
 - Postman: aplicação de testes de requisções HTTP (GET, POST, PUT, DELETE) e simular interações com a API, bem como seu funcionamento adequado(retornos);
 - HTML5: usada para estruturar e apresentar conteúdo na web, sendo utilizada a 5° versão;
-- JS
+- JavaScript: adiciona funcionalidades dinâmicas e integração com backend;
 - Discord: ferramenta que possibilitou as reuniões onlines de maneira interativa, para discusão e apoio de criação, modificação e ajustes a serem implementados no projeto; 
 - Vue: para a realização e estilização do Frontend;
 - Visual Studio Code (_VSCode_): toda a equipe utilizou para a elaboração do código em backend e frontend, a fim de evitar inconsistências e manter a padronização;
@@ -64,12 +64,24 @@ As tecnologias utilizadas foram:
 
 ## Hard Skills
 
-[Escrever]
+## 🚀 Hard Skills
+
+**Figma** 🟦🟦🟦 
+ 
+**Java**  🟦🟦⬜ 
+
+**PostgreSQL** 🟦🟦⬜
+
+**Jira** 🟦🟦🟦 
+
+**Postman** 🟦🟦⬜   
+
+**GitHub** 🟦🟦🟦  
 
 
 ## Soft Skills
 
-[Escrever]
+Com a mudança de time, precisei aprimorar e me adaptar a nova dinâmica de trabalho. Minhas habilidades de comunicação, empatia e trabalho em equipe foram fundamentais para interagir e entregar o projeto com qualidade.
 
 
 ## Visualize os outros Projetos

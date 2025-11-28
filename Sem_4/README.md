@@ -66,11 +66,9 @@ Durante o desenvolvimento do GeoTrack, atuei como Desenvolvedora Front-end, cont
 
 ## Hard Skills
 
-**Vue.js (Desenvolvimento Frontend)**  
-🟦🟦🟦 (3/3) — Faço com autonomia  
+**Vue.js (Desenvolvimento Frontend)** 🟦🟦🟦 
 
-**Wiki do GitHub**  
-🟦🟦🟦 (3/3) — Faço com autonomia  
+**Wiki do GitHub** 🟦🟦🟦  
 
 
 ## Soft Skills
