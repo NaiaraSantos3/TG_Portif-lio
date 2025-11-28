@@ -10,7 +10,7 @@ Segue o link para conhecer a _DOM ROCK_:
 [_Dom Rock_](https://www.domrock.net/)
 
 
-[Colocar imagem Logo Dom Rock]
+![Logo Dom Rock](../Descricao_Projetos_Semestre/Rascunhos/Imagens/LogoDomRock.png)
 
 
 ## Objetivo do Projeto

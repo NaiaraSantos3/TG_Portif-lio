@@ -8,7 +8,7 @@ Segue o link para conhecer a _Pro4Tech_:
 [_Pro4Tech_](https://www.pro4tech.com.br/)
 
 
-[Colocar imagem Logo Pro4Tech]
+![Logo Pro4Tech](../Descricao_Projetos_Semestre/Rascunhos/Imagens/Logo%20pro4tech.png)
 
 
 ## Objetivo do Projeto

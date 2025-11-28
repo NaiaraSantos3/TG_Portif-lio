@@ -7,7 +7,7 @@ A _Youtan_ é uma empresa que atua no desenvolvimento de softwares e aplicativos
 Segue o link para conhecer a _Youtan_:
 [_Youtan_](https://youtan.com.br/)
 
-[Colocar imagem Logo Youtan]
+![Logo Youtan](../Descricao_Projetos_Semestre/Rascunhos/Imagens/LogoYoutan.png)
 
 
 ## Objetivo do Projeto

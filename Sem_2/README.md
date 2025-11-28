@@ -4,8 +4,7 @@
 
 Para o 2° Semestre, a API contou novamente com o Cliente Interno: FATEC.
 
-
-[Colocar imagem Logo Fatec]
+![Logo Fatec](../Descricao_Projetos_Semestre/Rascunhos/Imagens/LogoFATEC.jpg)
 
 
 ## Objetivo do Projeto

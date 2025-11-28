@@ -7,7 +7,7 @@ A _ITO1_ é uma empresa focada em soluções tecnológicas de ponta, com especia
 Segue o link para conhecer a _ITO1_:
 [_ITO1_](https://www.ito1.com.br/)
 
-[Colocar imagem Logo ITO1]
+![Logo ITO1](../Descricao_Projetos_Semestre/Rascunhos/Imagens/LogoITO1.png)
 
 
 ## Objetivo do Projeto
