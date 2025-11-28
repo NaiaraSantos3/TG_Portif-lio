@@ -75,11 +75,11 @@ Acesse os demais projetos desenvolvidos ao longo do curso:
 
 | Semestre | Projeto | Link |
 |----------|---------|-------|
-| 1º Semestre | *Avaliação 360°* | [Acessar](Sem_1/README.md) |
-| 2º Semestre | *Sistema Gerenciador de TGs* | [Acessar](Sem_2/README.md) |
-| 3º Semestre | *DataFlow* | [Acessar](Sem_3/README.md) |
-| 5º Semestre | *VISION* | [Acessar](Sem_5/README.md) |
-| 6º Semestre | *LuminIA* | [Acessar](Sem_6/README.md) |
+| 1º Semestre | *Avaliação 360°* | [Acessar](https://github.com/NaiaraSantos3/TG_Portif-lio/blob/main/Sem_1/README.md) |
+| 2º Semestre | *Sistema Gerenciador de TGs* | [Acessar](https://github.com/NaiaraSantos3/TG_Portif-lio/blob/main/Sem_2/README.md) |
+| 3º Semestre | *DataFlow* | [Acessar](https://github.com/NaiaraSantos3/TG_Portif-lio/blob/main/Sem_3/README.md) |
+| 5º Semestre | *VISION* | [Acessar](https://github.com/NaiaraSantos3/TG_Portif-lio/blob/main/Sem_5/README.md) |
+| 6º Semestre | *LuminIA* | [Acessar](https://github.com/NaiaraSantos3/TG_Portif-lio/blob/main/Sem_6/README.md) |
 
 ---
 
