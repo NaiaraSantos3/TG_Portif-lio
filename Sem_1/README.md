@@ -31,8 +31,6 @@ As tecnologias utilizadas foram:
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 </p>
 
-![Tecnologias Utilizadas](Imagens/tecnologias_1sem.png)
-
 - Python: linguagem utilizada no projeto;
 - Visual Studio Code: IDE definida para uso de todo o time de desenvolvimento;
 - Excel: uso interno na equipe, para o controle das avaliações do time durante as sprints, dashboards e apoio no desenvolvimento do _burndown_;

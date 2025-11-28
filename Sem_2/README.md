@@ -22,7 +22,15 @@ Segue link para conhecer a aplicação _Sistema Gerenciador de TGs_:
 ## Tecnologias Utilizadas
 As tecnologias utilizadas foram:
 
-[Colocar a imagem das tecnologias]
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaFX-000000?style=for-the-badge&logo=javafx&logoColor=white" />
+  <img src="https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
+
 
 - Java: linguagem utilizada no projeto;
 - Eclipse: IDE definida para uso de todo o time de desenvolvimento;

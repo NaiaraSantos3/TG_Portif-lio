@@ -22,9 +22,17 @@ Seguem os links para conhecer a aplicação _GeoTrack_:
 ## Tecnologias Utilizadas
 As tecnologias utilizadas foram:
 
-[Colocar a imagem das tecnologias]
+<p align="left">
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Maps_API-4285F4?style=for-the-badge&logo=google-maps&logoColor=white" />
+  <img src="https://img.shields.io/badge/YouTrack-0F80FF?style=for-the-badge&logo=youtrack&logoColor=white" />
+</p>
 
-![Tecnologias Utilizadas](Descricao_Projetos_Semestre/Imagens/tecnologias_4sem.png)
 
 - Vue.js: framework JavaScript utilizado no frontend;
 - Vuetify: biblioteca de componentes de interface com o _Vue.js_;
