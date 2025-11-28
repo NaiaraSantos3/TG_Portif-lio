@@ -17,9 +17,7 @@ Este projeto surgiu da necessidade de modernizar a base de dados de suporte, que
 Dessa forma, o foco do projeto foi a reestruturação e modernização do banco de dados, atendendo aos critérios da LGPD, reorganizando os dados e desenvolvendo dashboards que permitissem a visualização de indicadores relevantes para o cliente.
 
 
-Segue link para conhecer a aplicação _LuminIA_:
-
-[Aplicação _LuminIA_](https://github.com/new-ge/LuminIA)
+Segue link para conhecer a aplicação _LuminIA_: [Aplicação _LuminIA_](https://github.com/new-ge/LuminIA)
 
 ## Tecnologias Utilizadas
 As tecnologias utilizadas foram:
