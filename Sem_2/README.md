@@ -13,9 +13,7 @@ Para o curso de Análise e Desenvolvimento de Sistemas (ADS), a FATEC – São J
 
 Dessa forma, foi solicitado o desenvolvimento de um Sistema de Gerenciamento de Banco de Dados, com o objetivo de centralizar e simplificar toda a administração dos TGs. A ferramenta será utilizada para um acompanhamento mais eficaz das etapas, prazos de entrega e status dos projetos, promovendo maior controle e organização ao longo do processo.
 
-Segue link para conhecer a aplicação _Sistema Gerenciador de TGs_:
-
-[Aplicação _Sistema Gerenciador de TGs_](https://github.com/iNineBD/SGTG-2Sem2023)
+Segue link para conhecer a aplicação _Sistema Gerenciador de TGs_: [Aplicação _Sistema Gerenciador de TGs_](https://github.com/iNineBD/SGTG-2Sem2023)
 
 
 ## Tecnologias Utilizadas
@@ -68,10 +66,17 @@ Durante o desenvolvimento do Sistema Gerenciador de TGs, atuei exclusivamente co
 
 ## Hard Skills
 
-- Figma para desenvolvimento de protótipo: sei fazer com autonomia;
-- Java: sei fazer com ajuda/pesquisa;
-- Eclipse: sei utilizar com autonomia;
-- GitHub: eu sei fazer com ajuda/pesquisa;
+**Figma (Desenvolvimento de protótipos)**  
+🟦🟦🟦 (3/3) — Sei fazer com autonomia  
+
+**Java (Desenvolvimento)**  
+🟦🟦⬜ (2/3) — Sei fazer com ajuda/pesquisa  
+
+**Eclipse (IDE)**  
+🟦🟦🟦 (3/3) — Sei utilizar com autonomia  
+
+**GitHub (Versionamento e commits)**  
+🟦🟦⬜ (2/3) — Sei usar com ajuda/pesquisa  
 
 
 ## Soft Skills

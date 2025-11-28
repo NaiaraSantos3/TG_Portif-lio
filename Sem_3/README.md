@@ -17,9 +17,7 @@ A instituição possui um sistema de processamento de dados em cascata chamado p
 Na metodologia de implementação do sistema, é necessário configurar as fontes de dados envolvidas para que a plataforma funcione corretamente. No entanto, a configuração das fontes de dados é feita manualmente, sendo um ponto crítico que consome muito tempo dos técnicos e cria uma dependência excessiva de especialistas para realizar tal tarefa.
 Para superar esse obstáculo, foi proposto a criação de uma interface amigável para a configuração das fontes de dados em alguns estágios, proporcionando maior agilidade na implantação para os clientes da _Dom Rock_ e reduzindo a sua dependência de técnicos especializados.
 
-Segue link para conhecer a aplicação _DataFlow_:
-
-[Aplicação _DataFlow_](https://github.com/iNineBD/DataFlow-3Sem2024)
+Segue link para conhecer a aplicação _DataFlow_: [Aplicação _DataFlow_](https://github.com/iNineBD/DataFlow-3Sem2024)
 
 
 ## Tecnologias Utilizadas

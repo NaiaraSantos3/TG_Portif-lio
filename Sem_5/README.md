@@ -16,8 +16,7 @@ Para este projeto, foi proposto a elaboração de um sistema que integrado a um 
   - Gestor: consegue visualizar os indicadores dos cards atribuídos a si mesmo e/ou que estão na responsabilidade do seu time;
   - Admin: é possível acessar todos os indicadores (de todos os usuários) e de todos os times;
 
-Segue o link para conhecer a aplicação _Vision_:
-[Aplicação _Vision_](https://github.com/new-ge/VISION)
+Segue o link para conhecer a aplicação _Vision_: [Aplicação _Vision_](https://github.com/new-ge/VISION)
 
 
 ## Tecnologias Utilizadas

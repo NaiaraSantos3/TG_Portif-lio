@@ -14,8 +14,7 @@ Segue o link para conhecer a _ITO1_: [_ITO1_](https://www.ito1.com.br/)
 Para o denvolvimento da API do 4° Semestre, aplicado na segunda etapa de 2024, tivemos o seguinte desafio:
 Desenvolver uma solução escalável e de alta disponibilidade para armazenar e consultar, em tempo real, dados de geolocalização gerados por dispositivos IoT. 
 
-Seguem os links para conhecer a aplicação _GeoTrack_:
-[Aplicação _GeoTrack_](https://github.com/iNineBD/GeoTrack-4Sem2024Main)
+Seguem os links para conhecer a aplicação _GeoTrack_: [Aplicação _GeoTrack_](https://github.com/iNineBD/GeoTrack-4Sem2024Main)
 
 
 ## Tecnologias Utilizadas
@@ -67,8 +66,11 @@ Durante o desenvolvimento do GeoTrack, atuei como Desenvolvedora Front-end, cont
 
 ## Hard Skills
 
- - Utilização do Vue: faço com autonomia;
- - Wiki do GitHub: faço com autonomia;
+**Vue.js (Desenvolvimento Frontend)**  
+🟦🟦🟦 (3/3) — Faço com autonomia  
+
+**Wiki do GitHub**  
+🟦🟦🟦 (3/3) — Faço com autonomia  
 
 
 ## Soft Skills
