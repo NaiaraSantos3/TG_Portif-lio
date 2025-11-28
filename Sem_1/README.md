@@ -4,7 +4,7 @@
 
 Devido ao contato inicial com a metodologia _Scrum_, contamos como a FATEC, como primeiro cliente. 
 
-[Colocar imagem Logo Fatec]
+![Logo Fatec](../Descricao_Projetos_Semestre/Rascunhos/Imagens/LogoFATEC.jpg)
 
 
 ## Objetivo do Projeto
