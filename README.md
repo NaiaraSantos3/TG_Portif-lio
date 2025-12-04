@@ -1,4 +1,4 @@
-# Apresentação de Portifolio: Naiara Santos
+# Apresentação de Portfolio: Naiara Santos
 
 ## Sumário
 - [Introdução](#introdução)
@@ -10,7 +10,16 @@
 
 ## Introdução
 
-"Faça uma breve introdução sobre você. Fale de sua formação e carreira. Caso aplicável, fale de publicações ou apresentações em eventos da área de computação. Inclua uma foto!"
+![Naiara Santos](../Descricao_Projetos_Semestre/Rascunhos/Imagens/NaiaraSantos.jpg)
+
+Olá!  
+Meu nome é **Naiara Santos**, tenho 26 anos, sou formada como **Técnica em Administração** (2016) e **Tecnóloga em Logística** pela FATEC (2021). Durante minha graduação em Logística, realizei estágio no setor ferroviário, mas a pandemia dificultou a efetivação e a entrada no mercado, que passou a exigir conhecimentos que eu ainda não possuía, como Python e automação de processos.
+
+Mesmo trabalhando no comércio, continuei estudando e buscando novas oportunidades. Foi então que conheci o curso de **Banco de Dados da FATEC**, para o qual ingressei em 2023 por vaga remanescente, iniciando meu segundo curso superior.
+
+Profissionalmente, já atuei como **estagiária na Prefeitura**, **estagiária em Logística**, **atendente**, **auxiliar administrativo** e atualmente sou **Técnica de Materiais**, colaborando na **automação de atividades**, criação de **scripts em Python** e apoio em **consultas para banco de dados e SAP**.
+
+Hoje sigo aprimorando minhas habilidades em tecnologia e estou em busca de oportunidades para crescer na área de dados.
 
 
 ## Contatos
