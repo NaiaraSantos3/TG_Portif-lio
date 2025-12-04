@@ -10,7 +10,9 @@
 
 ## Introdução
 
-![Naiara Santos](../Descricao_Projetos_Semestre/Rascunhos/Imagens/NaiaraSantos.jpg)
+<p align="center">
+  <img src="Descricao_Projetos_Semestre/Rascunhos/Imagens/NaiaraSantos.jpeg" alt="Foto de Naiara Santos" width="200">
+</p>
 
 Olá!  
 Meu nome é **Naiara Santos**, tenho 26 anos, sou formada como **Técnica em Administração** (2016) e **Tecnóloga em Logística** pela FATEC (2021). Durante minha graduação em Logística, realizei estágio no setor ferroviário, mas a pandemia dificultou a efetivação e a entrada no mercado, que passou a exigir conhecimentos que eu ainda não possuía, como Python e automação de processos.
@@ -30,8 +32,16 @@ Hoje sigo aprimorando minhas habilidades em tecnologia e estou em busca de oport
 
 ## Meus Principais Conhecimentos
  
+Aprendi muito atuando em front-end, mas também possuo amplo conhecimento em tecnologias voltadas ao back-end e banco de dados, sendo:
 
-"Apresente seus principais conhecimentos. Foque nos conhecimentos que possui maior domínio e que deseja desenvolver durante sua carreira."
+- Python
+- Java
+- Vue.js
+- HTML
+- TypeScript
+- CSS
+- SQL
+- Power BI
 
 
 ## Meus Projetos
