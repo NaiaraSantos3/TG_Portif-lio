@@ -12,9 +12,9 @@ Segue o link para conhecer a _Pro4Tech_: [_Pro4Tech_](https://www.pro4tech.com.b
 
 ## Objetivo do Projeto
 
-Este projeto surgiu da necessidade de modernizar a base de dados de suporte, que se encontrava em uma versão antiga e apresentava limitações importantes. O modelo atual não garante total conformidade com a LGPD, dificulta a organização e a análise das informações e não oferece suporte adequado para auditorias ou para a tomada de decisões.
+Este projeto surgiu da necessidade de modernizar a base de dados de suporte, que se encontrava em uma versão antiga e apresentava limitações importantes. O modelo não garantia conformidade total com a LGPD, dificultava a organização e análise das informações e oferecia suporte limitado para auditorias e tomada de decisões.
 
-Dessa forma, o foco do projeto foi a reestruturação e modernização do banco de dados, atendendo aos critérios da LGPD, reorganizando os dados e desenvolvendo dashboards que permitissem a visualização de indicadores relevantes para o cliente.
+O objetivo do projeto foi reestruturar e modernizar o banco de dados, garantindo a conformidade legal, reorganizando os dados e implementando dashboards que permitem visualizar indicadores estratégicos de forma clara e acessível. Dessa forma, a equipe – desde analistas até gestores – consegue acompanhar as operações com maior eficiência e tomar decisões fundamentadas em informações precisas e confiáveis.
 
 
 Segue link para conhecer a aplicação _LuminIA_: [Aplicação _LuminIA_](https://github.com/new-ge/LuminIA)
@@ -55,6 +55,32 @@ As tecnologias utilizadas foram:
 
 ## Contribuições Pessoais
 
+Durante o desenvolvimento do LuminIA, atuei como Desenvolvedora Front-end e Back-end, contribuindo para a implementação de funcionalidades, integração entre camadas do sistema, melhorias contínuas e suporte a análises de dados. Minhas principais entregas foram:
+
+- Desenvolvimento Back-end:
+  - Implementação de endpoints com lógica de filtragem baseada no nível de acesso do usuário, garantindo que cada analista visualize corretamente os chamados reincidentes, excedidos do SLA e em aberto, de acordo com sua hierarquia.
+  - Treinamento de modelo de IA para análise de sentimento de chamados utilizando técnicas de classificação de texto com Scikit-learn, atingindo a precisão mínima requerida.
+  - Realização de testes e validação dos endpoints para assegurar a integridade dos dados e conformidade com os critérios de aceitação.
+  - Ajustes e refatorações de lógica de filtros para evitar inconsistências nos retornos dos endpoints.
+
+- Desenvolvimento Front-end:
+  - Criação de telas administrativas para gerenciamento de usuários, incluindo funcionalidades de criação e edição de contas.
+  - Implementação da visualização da tabela de logs do sistema, permitindo acompanhamento detalhado de atualizações e alterações realizadas.
+  - Integração completa entre front-end e back-end, garantindo que os dados enviados e recebidos estivessem corretos e seguros.
+  - Ajustes visuais e funcionais conforme requisitos e protótipos, mantendo consistência na experiência do usuário.
+
+- Integração e Testes:
+  - Testes de integração entre front-end e back-end para validar o correto funcionamento das funcionalidades.
+  - Verificação de regras de negócio e consistência de filtros aplicados nos endpoints.
+  - Validação da precisão do modelo de IA e análise dos resultados em dados reais.
+
+- Correções e Refatorações:
+  - Identificação e resolução de inconsistências no sistema, garantindo que funcionalidades críticas operassem de forma correta.
+  - Refatoração de código e atualização de lógica de filtros conforme feedback e testes.
+
+- Colaboração e GitHub:
+  - Uso do GitHub para versionamento, criação de branches, pull requests e controle de merges.
+  - Participação em reuniões e dailies para alinhar progresso, definir próximas tarefas e reportar possíveis impedimentos.
 
 
 ## Hard Skills

@@ -64,7 +64,7 @@ Durante o desenvolvimento do Vision, atuei como Desenvolvedora Front-end e Back-
 
 - Desenvolvimento Back-end:
   - Implementação e ajustes de endpoints para retorno consistente de informações para diferentes perfis de usuário.
-  - Correção de inconsistências e refatoração de lógicas de cálculo, garantindo resultados corretos.
+  - Correção de inconsistências e refatoração de lógicas de cálculo, garantindo resultados.
   - Testes extensivos de integração e validação de dados.
   - Atualização de branches e resolução de conflitos entre sprints.
 
