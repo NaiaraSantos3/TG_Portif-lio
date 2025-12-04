@@ -57,14 +57,37 @@ As tecnologias utilizadas foram:
 - PostgreSQL: banco de dados utilizado para a alta escalabilidade de dados;
 - Docker: usado para unificar e gerenciar os ambientes de banco de dados, frontend e backend em contêineres;
 
+
 ## Contribuições Pessoais
 
-[Escrever]
+Durante o desenvolvimento do Vision, atuei como Desenvolvedora Front-end e Back-end, contribuindo para a implementação de funcionalidades, integração entre camadas do sistema e melhorias contínuas. Minhas principais entregas foram:
+
+- Desenvolvimento Back-end:
+  - Implementação e ajustes de endpoints para retorno consistente de informações para diferentes perfis de usuário.
+  - Correção de inconsistências e refatoração de lógicas de cálculo, garantindo resultados corretos.
+  - Testes extensivos de integração e validação de dados.
+  - Atualização de branches e resolução de conflitos entre sprints.
+
+- Desenvolvimento Front-end:
+  - Criação de requisições e integração com os endpoints do backend.
+  - Ajustes visuais e funcionais das telas conforme protótipo proposto ao cliente.
+  - Testes funcionais e visuais para garantir o correto funcionamento da aplicação.
+
+- Correções e Refatorações:
+  - Identificação e solução de inconsistências no sistema.
+  - Reabertura e ajuste de funcionalidades quando necessário para garantir qualidade das entregas.
+  - Tratamento de conflitos em front e back para manter estabilidade do projeto.
+
+- Colaboração e Code Review:
+  - Participação em revisões de código, propondo melhorias e garantindo a confiabilidade das entregas.
+  - Suporte técnico contínuo ao time na validação de funcionalidades.
+
+- GitHub e DevOps:
+  - Utilização do GitHub para versionamento e estruturação do Devops voltado para o banco de dados do projeto.
 
 
 ## Hard Skills
 
-## 🚀 Hard Skills
 
 **Figma** 🟦🟦🟦 
  
